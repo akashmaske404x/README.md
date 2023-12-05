@@ -1,7 +1,7 @@
 <!-- Your title -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Righteous&weight=10&size=30&duration=3000&pause=100&color=016EEA&background=388FFF00&center=true&vCenter=true&width=950&height=50&lines=Hey+Fellas%F0%9F%91%8B%2C+I'm+Sanskar+Gupta.+;A+Passionate+Cloud+Native+Developer.;Feel+Free+to+Connect+me.;If+there+is+Anything.;Nice+to+Meet+You+!!!....)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Righteous&weight=10&size=30&duration=3000&pause=100&color=016EEA&background=388FFF00&center=true&vCenter=true&width=950&height=50&lines=Hey+Fellas%F0%9F%91%8B%2C+I'm+Akash+Maske+;A+Passionate+Cloud+Native+Developer.;Feel+Free+to+Connect+me.;If+there+is+Anything.;Nice+to+Meet+You+!!!....)](https://git.io/typing-svg)
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="340" height="395">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sansugupta&label=Profile%20views&color=0e75b6&style=flat" alt="sansugupta" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sansugupta&label=Profile%20views&color=0e75b6&style=flat" alt="akashmaske404x" /> </p>
 <!-- Your badges
 You can use the website to generate badges: https://shields.io/
 -->
@@ -20,7 +20,7 @@ You can use the website to generate badges: https://shields.io/
 
 - 💬 Ask me about **DevOps Tools and Cloud.**
 
-- 📫 How to reach me **Sanskargupta966@gmail.com**
+- 📫 How to reach me **akashmaske25@gmail.com**
 
 - 📄 Know about my experiences [RESUME](https://drive.google.com/file/d/1OeYLbSz6e64av1uS3dlesM5ZiJd2AJHC/view?usp=sharing)
 
@@ -31,9 +31,6 @@ You can use the website to generate badges: https://shields.io/
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
 ![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)
 ![Git](https://img.shields.io/badge/-Git-000?&logo=Git)
-![Java](https://img.shields.io/badge/-Java-000?&logo=Java&logoColor=007396)
-![C](https://img.shields.io/badge/-C-000?&logo=C)
-![C++](https://img.shields.io/badge/-C++-000?&logo=c%2b%2b&logoColor=00599C)
 ![Shell Scripting](https://img.shields.io/badge/-Shell%20Scripting-000?&logo=GNU%20Bash)
 ![JSON](https://img.shields.io/badge/-JSON-000?&logo=JSON)
 ![YAML](https://img.shields.io/badge/-YAML-000?&logo=YAML)
@@ -46,7 +43,6 @@ You can use the website to generate badges: https://shields.io/
 ![Docker Swarm](https://img.shields.io/badge/-Docker%20Swarm-000?&logo=Docker)
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-000?&logo=Kubernetes)
 ![Ansible](https://img.shields.io/badge/-Ansible-000?&logo=Ansible)
-![Terraform](https://img.shields.io/badge/-Terraform-000?&logo=Terraform)
 ![Jenkins](https://img.shields.io/badge/-Jenkins-000?&logo=Jenkins)
 ![GitHub](https://img.shields.io/badge/-GitHub-000?&logo=GitHub)
 
