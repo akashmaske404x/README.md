@@ -16,7 +16,7 @@ You can use the website to generate badges: https://shields.io/
 **Talking about Personal Stuffs:**
 - 🔭 I’m currently working on **DevOps Technologies.**
 
-- Past Work Experiences [ Demand Specialist - COGOPORT ]
+-  Work Experiences [ System Engineer - Tanla Platform ]
 
 - 💬 Ask me about **DevOps Tools and Cloud.**
 
@@ -40,11 +40,11 @@ You can use the website to generate badges: https://shields.io/
 
 ![AWS](https://img.shields.io/badge/-AWS-000?&logo=Amazon-AWS&logoColor=F90)
 ![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
-![Docker Swarm](https://img.shields.io/badge/-Docker%20Swarm-000?&logo=Docker)
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-000?&logo=Kubernetes)
 ![Ansible](https://img.shields.io/badge/-Ansible-000?&logo=Ansible)
 ![Jenkins](https://img.shields.io/badge/-Jenkins-000?&logo=Jenkins)
 ![GitHub](https://img.shields.io/badge/-GitHub-000?&logo=GitHub)
+![Chef](https://img.shields.io/badge/just%20the%20message-Chef)
 
 
 ### Full Stack Projects
