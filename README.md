@@ -47,7 +47,7 @@ You can use the website to generate badges: https://shields.io/
 ![Chef](https://img.shields.io/badge/-Chef-000?&logo=Chef)
 
 
-### Cloud and Devops Projects
+### Python Projects
 
 [![](https://img.shields.io/badge/-🧬%20Python%20Learning-000)](https://github.com/sansugupta/PythonJourney)
 [![](https://img.shields.io/badge/-📝%20Shell%20Scripting-000)](https://github.com/sansugupta/Shell-Scripting)
@@ -63,7 +63,7 @@ You can use the website to generate badges: https://shields.io/
 ---
 
 <!-- Its main projects -->
-<h3 align="left">Main Projects:</h3>
+<h3 align="left">Cloud and Devops Projects:</h3>
 <p align="center">
   <a href="https://github.com/sansugupta/PythonJourney">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sansugupta&repo=PythonJourney" />
