@@ -44,7 +44,7 @@ You can use the website to generate badges: https://shields.io/
 ![Ansible](https://img.shields.io/badge/-Ansible-000?&logo=Ansible)
 ![Jenkins](https://img.shields.io/badge/-Jenkins-000?&logo=Jenkins)
 ![GitHub](https://img.shields.io/badge/-GitHub-000?&logo=GitHub)
-![Chef](https://img.shields.io/badge/just%20the%20message-Chef)
+![Chef](https://img.shields.io/badge/-Chef-000?&logo=Chef)
 
 
 ### Full Stack Projects
