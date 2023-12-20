@@ -1,6 +1,6 @@
 <!-- Your title -->
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Righteous&weight=10&size=30&duration=3000&pause=100&color=016EEA&background=388FFF00&center=true&vCenter=true&width=950&height=50&lines=Hey+Fellas%F0%9F%91%8B%2C+I'm+Akash+Maske+;A+Passionate+Cloud+Native+Developer.;Feel+Free+to+Connect+me.;If+there+is+Anything.;Nice+to+Meet+You+!!!....)](https://git.io/typing-svg)
-<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="340" height="395">
+<img align='right' src="https://media.giphy.com/media/YbXLZ6dymH758xSEbM/giphy.gif" width="340" height="395">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sansugupta&label=Profile%20views&color=0e75b6&style=flat" alt="akashmaske404x" /> </p>
 <!-- Your badges
 You can use the website to generate badges: https://shields.io/
