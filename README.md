@@ -18,7 +18,7 @@ You can use the website to generate badges: https://shields.io/
 
 -  Work Experiences [ System Engineer - Tanla Platform ]
   
--  Certifications
+- 
   **Aws Certified Cloud Practitioner**
   **Aws Certified Solution Architect Associate**
   **OCI foundation Associate**
