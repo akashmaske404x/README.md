@@ -14,7 +14,7 @@ You can use the website to generate badges: https://shields.io/
 &nbsp;
 <!-- Talking about you -->
 **Talking about Personal Stuffs:**
-- 🔭 I’m currently working on **DevOps Technologies.**
+- 🔭 I’m a **DevOps** geek.
 
 -  Work Experiences [ System Engineer - Tanla Platform ]
 
@@ -22,9 +22,9 @@ You can use the website to generate badges: https://shields.io/
 
 - 📫 How to reach me **akashmaske25@gmail.com**
 
-- 📄 Know about my experiences [RESUME](https://drive.google.com/file/d/1OeYLbSz6e64av1uS3dlesM5ZiJd2AJHC/view?usp=sharing)
+- 📄 Know about my experiences [RESUME]()
 
-- ⚡ Fun fact **I am Good in Fitness.**
+- ⚡ Fun fact **DevOps engineers on GitHub are like modern-day wizards, seamlessly merging the realms of development and operations. With just a few incantations (or Git commands), they can summon entire infrastructures, deploy magical updates, and collaborate with fellow wizards across the digital landscape. Git(hub) may not be a spellbook, but it sure feels like one when you're enchanting code repositories and conjuring continuous integration spells! 🧙‍♂️🚀 #DevOpsWizardry #GitHubMagic.**
 
 ### Languages
 
