@@ -47,7 +47,7 @@ You can use the website to generate badges: https://shields.io/
 ![Chef](https://img.shields.io/badge/-Chef-000?&logo=Chef)
 
 
-### Full Stack Projects
+### Cloud and Devops Projects
 
 [![](https://img.shields.io/badge/-🧬%20Python%20Learning-000)](https://github.com/sansugupta/PythonJourney)
 [![](https://img.shields.io/badge/-📝%20Shell%20Scripting-000)](https://github.com/sansugupta/Shell-Scripting)
