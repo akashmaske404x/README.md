@@ -17,7 +17,12 @@ You can use the website to generate badges: https://shields.io/
 - 🔭 I’m a **DevOps** geek.
 
 -  Work Experiences [ System Engineer - Tanla Platform ]
-
+  
+-  Certifications
+  ** Aws Certified Cloud Practitioner **
+  ** Aws Certified Solution Architect Associate **
+  ** OCI foundation Associate **
+      
 - 💬 Ask me about **DevOps Tools and Cloud.**
 
 - 📫 How to reach me **akashmaske25@gmail.com**
